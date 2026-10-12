@@ -1,0 +1,6 @@
+{
+  "name": "Food Castle Restaurant",
+  "description": "Official website for Food Castle Restaurant featuring a luxury black and gold theme, authentic menu, chef profile, online ordering, reservations, and customer reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
